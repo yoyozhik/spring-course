@@ -1,4 +1,4 @@
-# Spring course by Yoyozhik
+# Spring course by Evgenii Shagov
 ## Introduction
 You may be thinking "not another framework." Why should you read this article, or download the Spring Framework (if you haven't already), when there are so many J2EE frameworks, or when you could build your own framework? The sustained high level of interest in the community is one indication that Spring must offer something valuable; there are also numerous technical reasons.
 
